@@ -1,0 +1,19 @@
+.scroll-x{
+    height: 300px;
+    overflow-x: scroll;
+}
+
+.hero-header--carousel .inner-content .slider-title.slider-title--style-2 .slider-main-title {
+    font-size: 60px;
+}
+.input-wrapper .list{
+    height: 250px;
+    overflow: scroll;
+}
+.shop_table .product-actions .button {
+    margin-bottom: 20px;
+  }
+  
+  .scroll-x::-webkit-scrollbar {
+width: 1px;
+}
